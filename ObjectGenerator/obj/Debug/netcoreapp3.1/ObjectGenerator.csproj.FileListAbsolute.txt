@@ -1,0 +1,13 @@
+C:\Users\DCV\C#\ObjectGenerator\ObjectGenerator\bin\Debug\netcoreapp3.1\ObjectGenerator.exe
+C:\Users\DCV\C#\ObjectGenerator\ObjectGenerator\bin\Debug\netcoreapp3.1\ObjectGenerator.deps.json
+C:\Users\DCV\C#\ObjectGenerator\ObjectGenerator\bin\Debug\netcoreapp3.1\ObjectGenerator.runtimeconfig.json
+C:\Users\DCV\C#\ObjectGenerator\ObjectGenerator\bin\Debug\netcoreapp3.1\ObjectGenerator.runtimeconfig.dev.json
+C:\Users\DCV\C#\ObjectGenerator\ObjectGenerator\bin\Debug\netcoreapp3.1\ObjectGenerator.dll
+C:\Users\DCV\C#\ObjectGenerator\ObjectGenerator\bin\Debug\netcoreapp3.1\ObjectGenerator.pdb
+C:\Users\DCV\C#\ObjectGenerator\ObjectGenerator\obj\Debug\netcoreapp3.1\ObjectGenerator.csprojAssemblyReference.cache
+C:\Users\DCV\C#\ObjectGenerator\ObjectGenerator\obj\Debug\netcoreapp3.1\ObjectGenerator.AssemblyInfoInputs.cache
+C:\Users\DCV\C#\ObjectGenerator\ObjectGenerator\obj\Debug\netcoreapp3.1\ObjectGenerator.AssemblyInfo.cs
+C:\Users\DCV\C#\ObjectGenerator\ObjectGenerator\obj\Debug\netcoreapp3.1\ObjectGenerator.csproj.CoreCompileInputs.cache
+C:\Users\DCV\C#\ObjectGenerator\ObjectGenerator\obj\Debug\netcoreapp3.1\ObjectGenerator.dll
+C:\Users\DCV\C#\ObjectGenerator\ObjectGenerator\obj\Debug\netcoreapp3.1\ObjectGenerator.pdb
+C:\Users\DCV\C#\ObjectGenerator\ObjectGenerator\obj\Debug\netcoreapp3.1\ObjectGenerator.genruntimeconfig.cache
